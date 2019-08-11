@@ -50,9 +50,9 @@ If the investigation proves that the allegations are credible, we will immediate
 
 Harassers will be subject to progressive disciplinary action as follows:
 
-- For infrequent or less serious allegations, the preparator may receive a verbal warning, or a written warning.
-- For periodic or more serious sexual harassment incidents, the preparator may receive a demotion, a transfer, a suspension and perhaps criminal penalties such as a fine.
-- For frequent or extremely serious allegations, the preparator will likely face termination and severe criminal penalties.
+- For infrequent or less serious allegations, the preparator will receive a first-and-final warning.
+- For periodic or more serious sexual harassment incidents, the preparator will face termination and severe criminal penalties.
+- For frequent or extremely serious allegations, the preparator will face termination and severe criminal penalties.
 
 ##  Confidentiality:
 
