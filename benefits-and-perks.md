@@ -22,3 +22,6 @@ We have a $1000/year conference budget for each employee.
 
 At Resemble, we believe that the key to developing a world-class product and team is by fostering innovation and enabling continuous education. One way we encourage that is through the use of Foo Fridays. Foo Fridays is time for our employees to spend time on working on anything they want, Resemble-related or not. They can learn a new technology, prototype a new feature, work on a side project, develop a new skill, or even write blog posts. If it makes you better at what you do then go for it! Foo Fridays occur bi-weekly.
 
+## Vacation
+
+Resemble offers an unlimited vacation policy. We encourage everyone to take a minimum of 14 days off per year. This also means that we have offer unlimited sick days. To be respectful of this policy, please ensure that you notify your team and manager well in advance (if possible) to make sure that we can co-ordinate accordingly.
