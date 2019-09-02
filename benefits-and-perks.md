@@ -25,3 +25,18 @@ At Resemble, we believe that the key to developing a world-class product and tea
 ## Vacation
 
 Resemble offers an unlimited vacation policy. We encourage everyone to take a minimum of 14 days off per year. This also means that we have offer unlimited sick days. To be respectful of this policy, please ensure that you notify your team and manager well in advance (if possible) to make sure that we can co-ordinate accordingly.
+
+## Public Holidays
+
+Since we are a Canadian incorporated company, below are the public holidays for employees working in Canada. If you are working remotely, let us know the holidays in the country you are based out of. Public holidays are capped at 10 days since that’s the number of days we get off in Canada.
+
+New Year's Day	1-Jan
+Ontario Family Day	18-Feb
+Good Friday	19-Apr
+Victoria Day	20-May
+Canada Day	1-Jul
+Civic Holiday	5-Aug
+Labour Day	2-Sep
+Thanksgiving	14-Oct
+Christmas Day	25-Dec
+Boxing Day	26-Dec
