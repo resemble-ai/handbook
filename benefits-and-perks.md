@@ -30,13 +30,13 @@ Resemble offers an unlimited vacation policy. We encourage everyone to take a mi
 
 Since we are a Canadian incorporated company, below are the public holidays for employees working in Canada. If you are working remotely, let us know the holidays in the country you are based out of. Public holidays are capped at 10 days since that’s the number of days we get off in Canada.
 
-New Year's Day	1-Jan
-Ontario Family Day	18-Feb
-Good Friday	19-Apr
-Victoria Day	20-May
-Canada Day	1-Jul
-Civic Holiday	5-Aug
-Labour Day	2-Sep
-Thanksgiving	14-Oct
-Christmas Day	25-Dec
-Boxing Day	26-Dec
+- New Year's Day	1-Jan
+- Ontario Family Day	18-Feb
+- Good Friday	19-Apr
+- Victoria Day	20-May
+- Canada Day	1-Jul
+- Civic Holiday	5-Aug
+- Labour Day	2-Sep
+- Thanksgiving	14-Oct
+- Christmas Day	25-Dec
+- Boxing Day	26-Dec
