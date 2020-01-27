@@ -2,7 +2,7 @@
 
 ## Values
 
-Our values are extremely important to us. It's what makes us difference from everyone us and they impact everything from our benefits, perks, all the way down to our product.
+Our values are extremely important to us. It's what makes us difference from everyone and they impact everything from our benefits, perks, all the way down to our product.
 
 Key values:
 
