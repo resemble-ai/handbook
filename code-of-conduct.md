@@ -10,7 +10,7 @@ You should avoid accepting employment, advisory positions, or board seats with R
 
 # Professionalism:
 
-You will be spending a majority of the time with the people you work with, whether it’s at Resemble or another company. With that in mind, you should always conduct yourself professionally. You are expected to treat everybody with the utmost respect. We have a zero tolerance policy for any exclusionary and harassment behaviour and there is no room for unlawful discrimination, bullying, and intimidation at Resemble. Difference of opinions are bound to happen in the workspace and, if anything we encourage that. But a disagreement with your colleague, is no justification for any disrespectful behavior. If somebody asks you to stop doing or saying something because it’s making them uncomfortable, then stop. If you are being harassed, or notice that someone else is being harassed please contact Zohaib or Saqib.
+You will be spending a majority of the time with the people you work with, whether it’s at Resemble or another company. With that in mind, you should always conduct yourself professionally. You are expected to treat everybody with the utmost respect. We have a zero tolerance policy for any exclusionary and harassment behaviour and there is no room for unlawful discrimination, bullying, and intimidation at Resemble. Difference of opinions are bound to happen in the workspace and, if anything we encourage that. But a disagreement with your colleague is no justification for any disrespectful behavior. If somebody asks you to stop doing or saying something because it’s making them uncomfortable, then stop. If you are being harassed, or notice that someone else is being harassed please contact Zohaib or Saqib.
 
 # Privacy and Confidentiality:
 
