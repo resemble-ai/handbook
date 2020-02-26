@@ -4,7 +4,7 @@ As our company grows in size, its important to set guidelines for every new hire
 
 As we grow, you can expect this handbook to change. With every bit that I learn, I hope I can make this journey as enjoyable as possible while making sure that I'm creating an enviornment in where each of us can thrive and become better professionals and people.
 
-Unlike other handbooks, we're going to try to keep this one as real and honest as possible - taking into account our diversity. If you're reading this as a new employee, it is your job to correct our old ways if anything is broken. Take advantage of having a fresh plate and tell us about what we're doing wrong and question us whereever possible.
+Unlike other handbooks, we're going to try to keep this one as real and honest as possible - taking into account our diversity. If you're reading this as a new employee, it is your job to correct our old ways if anything is broken. Take advantage of having a fresh plate and tell us about what we're doing wrong and question us wherever possible.
 
 
 ## Sections
