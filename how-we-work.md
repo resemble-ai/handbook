@@ -24,6 +24,10 @@ As you get settled in with the project at hand, you’ll discover the many tasks
 
 Foo Fridays are meant for you to explore and do things you've always wanted to do. This can be related to work or  not. We just ask that you share your Foo days with us on Slack on the #foo channel.
 
+## Cool Down Weeks
+
+Working cycle to cycle without re-evaluating focus is a recipe for disaster. In order to get some time to reflect, experiment, and propose new ideas, we spend a week after each cycle to "cool down". At the end of the week, we collectively review the new cycle's goals and prioritize projects.
+
 ## Continuous Improvements
 
 The processes that are laid out are not meant to get in your way of being productive. They’re not meant to be tedious, or repulsive. If at any time, you think something is stupid - it most likely is and it needs to be corrected.

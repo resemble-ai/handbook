@@ -24,7 +24,7 @@ At Resemble, we believe that the key to developing a world-class product and tea
 
 ## Vacation
 
-Resemble offers an unlimited vacation policy. We encourage everyone to take a minimum of 14 days off per year. This also means that we have offer unlimited sick days. To be respectful of this policy, please ensure that you notify your team and manager well in advance (if possible) to make sure that we can co-ordinate accordingly.
+Resemble offers an unlimited vacation policy. We encourage everyone to take a minimum of 14 days off per year. This also means that we have offer unlimited sick days. To be respectful of this policy, please ensure that you notify your team and manager well in advance to make sure that we can co-ordinate accordingly. We'd like at least 4 week notices for any planned time you are taking off. We also understand that life doesn't follow the 4-week rule, so if you need a day off sooner, we're more than happy to accomodate.
 
 ## Public Holidays
 
